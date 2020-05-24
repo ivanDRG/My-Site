@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/My-Site/static/css/main.5f361e03.chunk.css",
-    "main.js": "/My-Site/static/js/main.e9f7c60a.chunk.js",
-    "main.js.map": "/My-Site/static/js/main.e9f7c60a.chunk.js.map",
+    "main.css": "/My-Site/static/css/main.f5cf0287.chunk.css",
+    "main.js": "/My-Site/static/js/main.5d4926d2.chunk.js",
+    "main.js.map": "/My-Site/static/js/main.5d4926d2.chunk.js.map",
     "runtime-main.js": "/My-Site/static/js/runtime-main.1ead0c6a.js",
     "runtime-main.js.map": "/My-Site/static/js/runtime-main.1ead0c6a.js.map",
-    "static/js/2.b6606f9e.chunk.js": "/My-Site/static/js/2.b6606f9e.chunk.js",
-    "static/js/2.b6606f9e.chunk.js.map": "/My-Site/static/js/2.b6606f9e.chunk.js.map",
+    "static/js/2.f7545cd1.chunk.js": "/My-Site/static/js/2.f7545cd1.chunk.js",
+    "static/js/2.f7545cd1.chunk.js.map": "/My-Site/static/js/2.f7545cd1.chunk.js.map",
     "index.html": "/My-Site/index.html",
-    "precache-manifest.9224d0ce91d66dd067c2dee62855ba13.js": "/My-Site/precache-manifest.9224d0ce91d66dd067c2dee62855ba13.js",
+    "precache-manifest.eaffeb1b38c4d28b6ecf971be9b2ef90.js": "/My-Site/precache-manifest.eaffeb1b38c4d28b6ecf971be9b2ef90.js",
     "service-worker.js": "/My-Site/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/My-Site/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b6606f9e.chunk.js.LICENSE.txt": "/My-Site/static/js/2.b6606f9e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/My-Site/static/media/logo.5d5d9eef.svg"
+    "static/css/main.f5cf0287.chunk.css.map": "/My-Site/static/css/main.f5cf0287.chunk.css.map",
+    "static/js/2.f7545cd1.chunk.js.LICENSE.txt": "/My-Site/static/js/2.f7545cd1.chunk.js.LICENSE.txt",
+    "static/media/Drum_Kit.png": "/My-Site/static/media/Drum_Kit.38949213.png",
+    "static/media/Keeper.png": "/My-Site/static/media/Keeper.cd6e55a7.png",
+    "static/media/SimonSay.png": "/My-Site/static/media/SimonSay.8a434390.png",
+    "static/media/TinDog.png": "/My-Site/static/media/TinDog.13ee0b2b.png",
+    "static/media/coding.jpg": "/My-Site/static/media/coding.f28605b7.jpg",
+    "static/media/me.jpg": "/My-Site/static/media/me.9d3eae54.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1ead0c6a.js",
-    "static/js/2.b6606f9e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e9f7c60a.chunk.js"
+    "static/js/2.f7545cd1.chunk.js",
+    "static/css/main.f5cf0287.chunk.css",
+    "static/js/main.5d4926d2.chunk.js"
   ]
 }
