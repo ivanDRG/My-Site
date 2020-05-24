@@ -35,7 +35,7 @@
   color: white;
   position: absolute;
   left: 45vw;
-  bottom: -8vh;
+  bottom: -20vh;
 }
 .downNavigation:focus {
   outline: none;
