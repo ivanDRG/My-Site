@@ -24,9 +24,6 @@ function Projects() {
           );
         })}
       </div>
-      <div className="row projectRepository">
-        <h3>Want to see more?</h3>
-      </div>
     </div>
   );
 }
